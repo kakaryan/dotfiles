@@ -1,1 +1,2 @@
-My config files.
+#My config files
+1. zshrc
